@@ -13,4 +13,4 @@ body를 cms라고 하는데
 
 body(back) head(front)를 잘 분리한것
 
-ex) strapi, sanity
+ex) strapi, sanity 
