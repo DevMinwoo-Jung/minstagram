@@ -1,0 +1,16 @@
+csm??
+
+content management system
+
+headless??
+
+body를 cms라고 하는데
+
+앞단을 자유자재로 바꿀 수 있다..?
+
+헤드리스 콘텐츠 관리 시스템 또는 헤드리스 CMS는 주로 콘텐츠 저장소 역할을 하는 백엔드 전용 웹 콘텐츠 관리 시스템입니다. 헤드리스 CMS는 내장된 프런트 엔드 또는 프레젠테이션 레이어 없이 모든 장치에서 표시할 수 있도록 API를 통해 콘텐츠에 액세스할 수 있도록 합니다
+(from 위키)
+
+body(back) head(front)를 잘 분리한것
+
+ex) strapi, sanity
